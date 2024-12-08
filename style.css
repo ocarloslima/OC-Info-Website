@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Merienda:wght@300..900&family=Parkinsans:wght@300..800&display=swap');
+
+/* font-family: "Merienda", cursive; */
+/* font-family: "Parkinsans", sans-serif; */
+
+  
+* {
+    padding: 0;
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+    font-size: 100%;
+    font-family: "Merienda", cursive;
+    margin: auto;
+}
+
+body {
+    background-color: rgb(27, 26, 31);
+    text-align: center;
+    padding: 50px 20px;
+    width: 100%;
+    color: rgb(241, 241, 241);
+}
+
+h3, h4 {
+    font-family: "Parkinsans", sans-serif;
+}
+
+h2 {
+    text-decoration: underline;
+    /* font-size: 2em; */
+    font-weight: 500;
+}
+
+h1{
+    font-size: 1.5em;
+    margin-bottom: 5px;
+}
+
+div {
+    margin: 25px 0;
+}
+
+#dados h3 {
+    margin-top: 15px;
+}
+
+p {
+    font-size: 0.8em;
+    margin: 5px 0;
+}
+
+#relacoes h4 {
+    margin-top: 15px;
+    font-size: 0.85em;
+    text-decoration: underline;
+}
+
+.desc {
+    font-size: 0.8em;
+}
+
+img {
+    width: 200px;
+    border-radius: 15px;
+    border: 5px solid rgb(248, 198, 255);
+}
+
+#span {
+    margin-top: 50px;
+    font-size: 0.5em;
+    /* line-height: -10px; */
+    border: 1px solid cadetblue;
+}
