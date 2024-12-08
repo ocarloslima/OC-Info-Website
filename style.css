@@ -73,6 +73,6 @@ img {
     border: 1px solid cadetblue;
 }
 
-#dados p span {
-    text-decoration: dashed;
+#meteor {
+    text-decoration: line-through;
 }
